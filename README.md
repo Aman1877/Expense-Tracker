@@ -1,12 +1,12 @@
 # Features
 
--> Adding total expense limit
--> Adding categories
--> Edit expense
--> Adding category/expense
--> Removing category/expense
--> Show details of expense list
--> Fullscreen mode
+- Adding total expense limit
+- Adding categories
+- Edit expense
+- Adding category/expense
+- Removing category/expense
+- Show details of expense list
+- Fullscreen mode
 
 # Screenshot
 
